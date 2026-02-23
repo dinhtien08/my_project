@@ -2,3 +2,7 @@
 alo/ 
 # => git khong theo doi alo
 *.log
+
+# bo qua file abc.xyz nhung van giu myfile.xyz
+# se chi bo qua cac file .xyz o trong git repo
+/*.xyz
