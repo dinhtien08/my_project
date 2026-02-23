@@ -6,3 +6,7 @@ alo/
 # bo qua file abc.xyz nhung van giu myfile.xyz
 # se chi bo qua cac file .xyz o trong git repo
 /*.xyz
+
+# minh muon bo qua file abc.txt trong folder second
+# phai su dung /
+second_folder/abc.txt
